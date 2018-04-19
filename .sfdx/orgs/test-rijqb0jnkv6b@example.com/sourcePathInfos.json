@@ -1,0 +1,257 @@
+[
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app",
+        {
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1524157701317,
+            "changeTime": 1524157701317,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main",
+        {
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1524157701317,
+            "changeTime": 1524157701317,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1524158303190,
+            "changeTime": 1524158303190,
+            "contentHash": "4f090b12d069ab492a48d0da355988187018b1a5"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1524157701317,
+            "changeTime": 1524157701317,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo",
+        {
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1524157783744,
+            "changeTime": 1524157783744,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/objects/E_Demo__c/E_Demo__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/objects/E_Demo__c/E_Demo__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2111,
+            "modifiedTime": 1524158303180,
+            "changeTime": 1524158303180,
+            "contentHash": "38f6fbae0ec0f4e152b367485bde25ad62e5bfcd"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/objects/E_Demo__c/fields/Active__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/objects/E_Demo__c/fields/Active__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 357,
+            "modifiedTime": 1524158303180,
+            "changeTime": 1524158303180,
+            "contentHash": "5aade8eaa1d29ae34944e69aba4f35ef4261fb70"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/layouts/E_Demo__c-E-Demo Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/layouts/E_Demo__c-E-Demo Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2880,
+            "modifiedTime": 1524158303186,
+            "changeTime": 1524158303186,
+            "contentHash": "d03826934ee2ad33167ba5307b84e2a8560c6dc6"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/tabs/E_Demo__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/tabs/E_Demo__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1524158303188,
+            "changeTime": 1524158303188,
+            "contentHash": "a86aef41fb1debb32fdce4002feb14cb5115e01e"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4698,
+            "modifiedTime": 1524158303191,
+            "changeTime": 1524158303191,
+            "contentHash": "d03edc87b2095b36f9fcc5ac373b4f4773aadb8c"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5036,
+            "modifiedTime": 1524158303198,
+            "changeTime": 1524158303198,
+            "contentHash": "d438d315a375b241004cca2edce450fc84057a36"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4698,
+            "modifiedTime": 1524158303202,
+            "changeTime": 1524158303202,
+            "contentHash": "d03edc87b2095b36f9fcc5ac373b4f4773aadb8c"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18086,
+            "modifiedTime": 1524158303215,
+            "changeTime": 1524158303215,
+            "contentHash": "d9372eaf3c3efd13c40d143b483a89a5ca2baae3"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/objects/E_Demo__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/objects/E_Demo__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1524158303180,
+            "changeTime": 1524158303180,
+            "contentHash": "aa6322a0bbbf71c7f32e3e27a5e3b212c4502ba8"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1524158303178,
+            "changeTime": 1524158303178,
+            "contentHash": "0935da0e7f904276177be4f94b1d12478e7879b6"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/objects/E_Demo__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/objects/E_Demo__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1524158303180,
+            "changeTime": 1524158303180,
+            "contentHash": "167b00b6699683e85784c6885d0543f790a2eaa8"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1524158303186,
+            "changeTime": 1524158303186,
+            "contentHash": "f6de4fe1dcd99340087b6dfd5ee80d8466c72333"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1524158303188,
+            "changeTime": 1524158303188,
+            "contentHash": "ef3196b69b64d5d7994557ef750f3a946cfe5bf6"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/old/041918/EllucianDemo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1524158303215,
+            "changeTime": 1524158303215,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
